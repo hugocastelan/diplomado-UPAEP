@@ -22,6 +22,10 @@ Horario: Flexible.
 En este tema, revisamos los comandos  `pwd` `cd`  y  `ls`
 >  Estos comandos, nos sirven para movernos dentro de la terminal y obtener cierta información
 
-`pwd` - > Ubicación en el espacio de trabajo <
-`cd`  - > Cambio de directorio <
-`ls`  - > Visualizar el contenido del directorio <
+`pwd` - > Ubicación en el espacio de trabajo 
+
+`cd`  - > Cambio de directorio 
+
+`ls`  - > Visualizar el contenido del directorio 
+
+
