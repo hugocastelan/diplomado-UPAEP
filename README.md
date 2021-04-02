@@ -8,9 +8,18 @@ Duración: 96 horas
 Periodo: 5 Abril - 25 Junio 2021 (8 horas por semana)
 Horario: Flexible. 
 
-Objetivo: Que los participantes aprendan los procesos de datos de forma sistemática, desde cómo usar las herramientas de procesamiento en Linux, hasta los elementos que afectan la parametrización de programas, así como la interpretación de resultados de modelamiento molecular y docking. 
+**Objetivo**: Que los participantes aprendan los procesos de datos de forma sistemática, desde cómo usar las herramientas de procesamiento en Linux, hasta los elementos que afectan la parametrización de programas, así como la interpretación de resultados de modelamiento molecular y docking.
+
+**En esta página, estaremos revisando el contenido de lecturas y el resumen de comandos revisados en las sesiones en vivo**
+
 
 ## Unidad 1 - Introducción a Linux
+
+### Tema 2 - Sistemas de Archivos
+
+#### 2.3 - Comandos de navegación
+
+En este tema, revisamos los comandos  `pwd` `cd`  y  `ls`
 
 Para poder realizar este ejercicio, necesitaremos:
 1. Ingresar a la página de NCBI: [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
