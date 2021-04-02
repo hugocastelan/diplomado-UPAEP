@@ -2,5 +2,4 @@
 
 
 hola ke ase
-
-Editando el git o k ase
+Este documento es para anotar los comandos 
