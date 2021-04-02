@@ -10,7 +10,7 @@ Horario: Flexible.
 
 Objetivo: Que los participantes aprendan los procesos de datos de forma sistemática, desde cómo usar las herramientas de procesamiento en Linux, hasta los elementos que afectan la parametrización de programas, así como la interpretación de resultados de modelamiento molecular y docking. 
 
-### Requisitos
+## Unidad 1 - Introducción a Linux
 
 Para poder realizar este ejercicio, necesitaremos:
 1. Ingresar a la página de NCBI: [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
