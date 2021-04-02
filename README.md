@@ -20,17 +20,8 @@ Horario: Flexible.
 #### 2.3 - Comandos de navegación
 
 En este tema, revisamos los comandos  `pwd` `cd`  y  `ls`
+>  Estos comandos, nos sirven para movernos dentro de la terminal y obtener cierta información
 
-Para poder realizar este ejercicio, necesitaremos:
-1. Ingresar a la página de NCBI: [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
-2. Dar click en `Resource List (A-Z)`
->  El paso anterior nos desplegó una lista de todos los repositorios en NCBI que están disponibles para su consulta.
-3. Abrir la Base de datos `Nucleotide`
-4. Teclear `Escherichia coli` en el campo de búsqueda
-
-### Ejercicio 1
-### 1.1 Búsqueda Avanzada
-
-1. Dar click en ``Advanced``
-2. En el Builder, seleccionar ``Organism`` en la primer pestaña
-3. Realizar nuevamente la búsqueda de ``Escherichia coli``
+1 - `pwd` - > Ubicación en el espacio de trabajo
+2 - `cd`  - > Cambio de directorio
+3 - `ls`  - > Visualizar el contenido del directorio
